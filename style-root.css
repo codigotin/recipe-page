@@ -1,0 +1,61 @@
+:root{
+
+    /*---- COLORS*/
+    --rose-800: #7A284E;
+    --rose-50: #FFF7FB;
+    --stone-900: #312E2C;
+    --stone-600: #5F564D;
+    --stone-150: #E3DDD7;
+    --stone-100: #F3E5D7;
+    --brown-800: #854632;
+    --white: #FFFFFF;
+
+    /*---- FONTS*/
+    --font-family-youngserif:'YoungSerif', sans-serif;
+    --font-family-outfit:'Outfit', sans-serif;
+    --font-size-40: 40px;
+    --font-size-36: 36px;
+    --font-size-28: 28px;
+    --font-size-20: 20px;
+    --font-size-16: 16px;
+    --font-size-12: 12px;
+    --font-weight-400: 400;
+    --font-weight-600: 600;
+    --font-weight-700: 700;
+    --line-height-100: 1;
+    --line-height-150: 1.5;
+    --letter-spacing-0: 0px;  
+}
+
+/*---- TYPE*/
+@font-face {
+    font-family:'Outfit';
+    src: url('assets/fonts/outfit/static/Outfit-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+@font-face {
+    font-family:'Outfit';
+    src: url('assets/fonts/outfit/static/Outfit-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family:'Outfit';
+    src: url('assets/fonts/outfit/static/Outfit-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family:'YoungSerif';
+    src: url('assets/fonts/young-serif/YoungSerif-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
